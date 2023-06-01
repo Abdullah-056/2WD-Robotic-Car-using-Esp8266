@@ -1,2 +1,2 @@
-# 2WD-Robotic-Car-using-Esp8266
-2 wheel DC motor car controlled by ESP8266 Wifi module via L298N Motor Driver module along with Arduino sample control code.
+# 2WD Wifi based Robotic Car using Esp8266
+The WiFi Controlled 2WD Robotic Car project aims to develop a versatile robotic car controlled via a smartphone app using the ESP8266 micro-controller and L298N motor driver module. The car will utilize WiFi connectivity and the Blynk platform for remote control. Powered by a Li-on  battery, it will provide mobility and support various applications.The project aims to achieve seamless integration between hardware components and software functionalities, resulting in a user-friendly and interactive experience.
